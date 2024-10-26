@@ -1,11 +1,11 @@
 # CS250-SDLC
 CS 250: Software Development Life Cycle
+<br/>
 <br/>(From the SNHU CS-250 Syllabus)
 <br/>Students will explore the stages of the Software Development Lifecycle (SDLC) through the lens of developers and testers to examine the characteristics, documentation, and purpose of each stage. Through applying SDLC stages within an agile development environment, students will learn the principles and best practices used to develop high quality software while also assessing the impact of communication, documentation, and ethics on the SDLC.
 
 # Course Competencies
 This course covers the following competencies, which represent the knowledge and skills relevant to the field:
-
 <br/>CS-20409: Explain the different methodologies and stages involved in the software development life cycle
 <br/>CS-20410: Apply the stages of the software development life cycle within an agile development environment
 <br/>CS-30411: Evaluate various software development methodologies and tools
