@@ -2,16 +2,16 @@
 CS 250: Software Development Life Cycle
 
 # Course Competencies
-This course covers the following competencies, which represent the knowledge and skills relevant to the field:
+This course covers the following competencies, which represent the knowledge and skills relevant to the field:<br/>
 
-CS-20409: Explain the different methodologies and stages involved in the software development life cycle
-CS-20410: Apply the stages of the software development life cycle within an agile development environment
-CS-30411: Evaluate various software development methodologies and tools
+<br/>CS-20409: Explain the different methodologies and stages involved in the software development life cycle
+<br/>CS-20410: Apply the stages of the software development life cycle within an agile development environment
+<br/>CS-30411: Evaluate various software development methodologies and tools
 
 The Sprint Review and Retrospective pulls together the Agile and Scrum practices that I have applied throughout this course.
 
 # How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
-Interpreting user needs can start through several methods such as interviews, surveys, focus groups, observation, and usability testing. 
+Interpreting user needs can start through several methods such as interviews, surveys, focus groups, observation, and usability testing.
 These methods gather insight from the users perspective to help the team understand goals and preferrences. 
 With these goals and preferrences we can identify requirements to categorize by priority.
 User stories are descriptions of a feature from the end user's perspective, usually following the format: “As a [type of user], I want [goal] so that [reason].”
@@ -29,6 +29,6 @@ when utilizing scrum the team maintains a rhythm while delivering the most valua
 # What does it mean to be a good team member in software development?
 A good team member prioritizes communication. Clear and open communication allows for ideas, feedback, and concerns to be discussed in an open environment.
 A good team member also collaborates with their team and posesses the adaptability to approach challenges in a changing environment.
-Besides those traits it is important to have accountability to be responsible and dependable. In software development technology is always changing, so it might also make a good team member if we stay curious and pursue new knowledge. 
-In any environment, to top it off, it is important to be respectful and kind to everyone.
+Besides those traits it is important to have accountability to be responsible and dependable. In software development technology is always changing, so it might also make a good team member if we stay curious and pursue new knowledge. <br/>
+In any environment, to top it off, it is important to be respectful and kind to everyone.<br/>
 These traits make a good team member for delivering successful projects while maintaining a healthy environment.
