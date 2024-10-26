@@ -6,6 +6,7 @@ CS 250: Software Development Life Cycle
 
 # Course Competencies
 This course covers the following competencies, which represent the knowledge and skills relevant to the field:
+<br/>
 <br/>CS-20409: Explain the different methodologies and stages involved in the software development life cycle
 <br/>CS-20410: Apply the stages of the software development life cycle within an agile development environment
 <br/>CS-30411: Evaluate various software development methodologies and tools
