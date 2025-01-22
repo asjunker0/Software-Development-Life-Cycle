@@ -1,4 +1,4 @@
-# CS250-SDLC
+# Software Development Life Cycle
 CS 250: Software Development Life Cycle
 <br/>
 <br/>(From the SNHU CS-250 Syllabus)
